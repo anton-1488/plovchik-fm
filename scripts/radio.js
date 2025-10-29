@@ -1,6 +1,5 @@
 // Список песен (пути к файлам)
 const playlist = [
-    'pause.ogg',
     'rr.mp3',
     'pause.ogg',
     'barbiePet.mp3',
